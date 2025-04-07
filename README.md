@@ -1,16 +1,28 @@
-## Hi there 👋
+# Ilias Outras
+### Hi! I'm a civil engineer turned Data Scientist with 23+ years of professional experience.
 
-<!--
-**iloutras/iloutras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⤷ My journey began in engineering and property valuation—running my own office, collaborating with banks and real estate agencies, and managing projects across disciplines. Today, I bring that same problem-solvin mindset to the world of data. 
+As a data scientist, I specialize in data modeling, analysis, and visualization. I work with tools like Python, SQL, and Power BI to extract insights and support decision-making in a wide range of projects.
 
-Here are some ideas to get you started:
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚐ Based in Västra Götland - Sweden
+
+ϟ Currently Looking for Data Scientist related roles
+
+
+
+ ## Skills
+   <a href="https://www.python.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/core/python.svg" alt="Python" width="25" height="25" /></a> <a href="https://r-lang.com/what-is-r-language/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/core/r.svg" alt="R" width="25" height="25" /></a>   <a href="https://www.mysql.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/backend/mysql.svg" alt="MySQL" width="25" height="25" /></a>    <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/software/photoshop.svg" alt="Photoshop" width="25" height="25" /></a> <a href="https://www.adobe.com/products/lightroom.html" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/software/lightroom.svg" alt="Lightroom" width="25" height="25" /></a> 
+
+ 🔧 Core Skills
+ 
+Data Science & Machine Learning – Modeling, evaluation, optimization
+
+Data Visualization – Power BI, Matplotlib, Seaborn
+
+Programming – Python, SQL, R
+
+Engineering & Valuation – Civil engineering, property valuation, project management
+
+Languages – Fluent in Greek, English, and Swedish
