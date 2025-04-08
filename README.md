@@ -6,7 +6,7 @@ As a data scientist, I specialize in data modeling, analysis, and visualization.
 
   
 
-⚐ Based in Västra Götland - Sweden
+⚐ Based in Västra Götaland - Sweden
 
 ϟ Currently Looking for Data Scientist related roles
 
