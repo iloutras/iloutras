@@ -2,7 +2,7 @@
 ### Hi! I'm a civil engineer turned Data Scientist with 23+ years of professional experience.
 
 ⤷ My journey began in engineering and property valuation—running my own office, collaborating with banks and real estate agencies, and managing projects across disciplines. Today, I bring that same problem-solvin mindset to the world of data. 
-As a data scientist, I specialize in data modeling, analysis, and visualization. I work with tools like Python, SQL, and Power BI to extract insights and support decision-making in a wide range of projects.
+As a data scientist, I specialize in data modelling, analysis, and visualization. I work with tools like Python, SQL, and Power BI to extract insights and support decision-making in a wide range of projects.
 
   
 
